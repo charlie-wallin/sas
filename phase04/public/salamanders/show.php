@@ -2,6 +2,7 @@
 
 $page_title = 'Salamander Details';
 include(SHARED_PATH . '/salamander-header.php'); 
+// Null coalescing operator
 $id = $_GET['id'] ?? '1'; 
 $salamander = find_salamander_by_id($id);
 ?>

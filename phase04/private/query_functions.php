@@ -23,13 +23,14 @@ function find_salamander_by_id($id) {
 function insert_salamander($salamander) {
    global $db;
     $sql = "INSERT INTO salamander ";
+    // id is automatically taken of
     $sql .= "(name, habitat, description) ";
     $sql .= "VALUES(";
     $sql .= "'" . $salamander['name'] . "', ";
     $sql .= "'" . $salamander['habitat'] . "', ";
     $sql .= "'" . $salamander['description'] . "'";
     $sql .= ")";
-    echo $sql; exit;
+    //echo $sql; exit;
     $result = mysqli_query($db, $sql);
 
     if($result) {
@@ -49,6 +50,7 @@ function update_salamander($salamander) {
     $sql .= "description='" .  $salamander['description'] . "' ";
     $sql .= "WHERE id='" . $salamander['id'] . "' ";
     $sql .= "LIMIT 1";
+
   
     $result = mysqli_query($db, $sql);
     if($result) {

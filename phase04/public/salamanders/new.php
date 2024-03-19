@@ -4,6 +4,7 @@ require_once('../../private/initialize.php');
 include(SHARED_PATH . '/salamander-header.php'); 
 
 $pageTitle = 'Create Salamander'; ?>
+<!-- Example of a sticky field -->
   <a href="<?php echo url_for('salamanders/index.php'); ?>">&laquo; Back to Salamanders</a>
 
     <h1>Create Salamander</h1>
