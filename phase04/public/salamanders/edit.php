@@ -26,14 +26,12 @@ if(is_post_request()) {
  </label>
  <label for="habitat">
      <p>Habitat: <br>
-        <input type="text" size="50" maxlength="100" name="habitat" 
-        value = "<?php echo trim(h($salamander['habitat'])); ?>">
+     <textarea rows="4" cols="50" name="habitat"><?php echo h($salamander['habitat']); ?></textarea>
     </p>
 </label>
  <label for="description">
      <p>Description:<br>
-     <input type="text" size="50" maxlength="100" name="description" 
-        value = "<?php echo trim(h($salamander['description'])); ?>">
+     <textarea rows="4" cols="50" name="description"><?php echo h($salamander['description']); ?></textarea>
      </p>
  </label>
  <lable for="submit">
