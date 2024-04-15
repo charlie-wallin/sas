@@ -1,0 +1,49 @@
+[12-Oct-2022 12:47:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[28-Feb-2023 15:14:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[07-Mar-2023 15:00:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[21-Feb-2024 16:12:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[22-Feb-2024 13:14:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[25-Feb-2024 14:17:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
+[12-Mar-2024 11:58:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'charli12_doall'@'localhost' (using password: YES) in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php:6
+Stack trace:
+#0 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php(6): mysqli_connect('localhost', 'charli12_doall', 'ErYje7HV2o2Lqp7...', 'charli12_salama...')
+#1 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/initialize.php(27): db_connect()
+#2 /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/public/index.php(1): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/chatteringmagpie.dev/public_html/web182/sas/phase05/private/database.php on line 6
